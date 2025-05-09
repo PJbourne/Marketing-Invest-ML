@@ -7,7 +7,7 @@ Este projeto analisa dados de uma campanha de marketing para prever se os client
 
 ## 🛠️ Etapas do Projeto
 
-1. **Leitura** dos dados (https://raw.githubusercontent.com/PJbourne/Data_Science_course/refs/heads/main/marketing_investimento%20-%20marketing_investimento.csv)
+1. **Leitura** dos dados [CSV original - marketing_investimento.csv](https://raw.githubusercontent.com/PJbourne/Data_Science_course/refs/heads/main/marketing_investimento%20-%20marketing_investimento.csv)
 2. **Análise exploratória** com visualizações (matplotlib, plotly)
 3. **Preparação dos dados**:
    - Codificação de variáveis categóricas com `OneHotEncoder` e `LabelEncoder`
