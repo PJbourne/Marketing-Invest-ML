@@ -42,7 +42,7 @@ Os dados estão hospedados em um repositório externo:
 ---
 
 ## 📁 Estrutura do Projeto
-├── requirements.txt # bibliotecas utilizadas
-├── Classificacao_Marketing_Investimento.ipynb # Notebook completo da análise
-├── LICENSE
-└── README.md
+├── requirements.txt # bibliotecas utilizadas   
+├── Classificacao_Marketing_Investimento.ipynb # Notebook completo da análise   
+├── LICENSE   
+└── README.md   
